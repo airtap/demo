@@ -1,0 +1,12 @@
+providers:
+  - airtap-playwright
+  - airtap-default
+
+browsers:
+  - name: chromium
+  - name: firefox
+
+presets:
+  default:
+    browsers:
+      - name: default
