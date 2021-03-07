@@ -10,10 +10,10 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "airtap": "github:airtap/airtap#9077551",
+    "airtap": "^4.0.2",
     "airtap-default": "^1.0.0",
-    "airtap-playwright": "^1.0.0",
-    "tape": "^5.0.1"
+    "airtap-playwright": "^1.0.1",
+    "tape": "^5.2.2"
   },
   "keywords": [
     "airtap",
