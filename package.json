@@ -10,7 +10,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "airtap": "^4.0.2",
+    "airtap": "^5.0.0",
     "airtap-default": "^1.0.0",
     "airtap-playwright": "^1.0.1",
     "tape": "^5.2.2"
